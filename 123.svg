@@ -3,5 +3,5 @@
   "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1"
      xmlns="http://www.w3.org/2000/svg" xmlns:xlink= "http://www.w3.org/1999/xlink">
-  <image xlink:href="https://cdn.pixabay.com/photo/2016/04/23/10/50/letter-1347393_960_720.jpg" x="0" y="0" height="100px" width="100px"/>
+  <image xlink:href="http://localhost" x="0" y="0" height="100px" width="100px"/>
 </svg>
